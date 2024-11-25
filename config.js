@@ -1,5 +1,37 @@
 //Base de datos
-//Importacion
-//Codigo oculto.
-
-const _0x499ea8=_0x5b6a;(function(_0x36fed0,_0x2d2bbd){const _0x2b7b16=_0x5b6a,_0x542b87=_0x36fed0();while(!![]){try{const _0x576353=parseInt(_0x2b7b16(0x8b))/0x1+-parseInt(_0x2b7b16(0x95))/0x2+parseInt(_0x2b7b16(0xad))/0x3+-parseInt(_0x2b7b16(0x91))/0x4*(parseInt(_0x2b7b16(0x97))/0x5)+parseInt(_0x2b7b16(0xa3))/0x6+parseInt(_0x2b7b16(0x9e))/0x7*(-parseInt(_0x2b7b16(0xa1))/0x8)+-parseInt(_0x2b7b16(0xb4))/0x9;if(_0x576353===_0x2d2bbd)break;else _0x542b87['push'](_0x542b87['shift']());}catch(_0x486e76){_0x542b87['push'](_0x542b87['shift']());}}}(_0x550b,0xbf94f));import{watchFile,unwatchFile}from'fs';import{es}from'./MBMD/lyjust.js';function _0x550b(){const _0x22614a=['𝙈𝘽𝙈𝘿','catch','1210554VcfGAy','error','obtenerQrWeb','🗿\x20ᴏᴡɴᴇʀ','𝘔𝘉𝘔𝘋','ᴍʙᴍᴅ\x20•\x20ᵇᵒᵗ','60508nRnTjU','redBright','3.5.0','1.0','807082cSgSyr','multiplier','265cGljfd','Ocurrió\x20un\x20error:','120363318353263389@newsletter','•\x20🅼🄱︎🅼🄳\x20•︎','igfg','ᴍʙᴍᴅ\x20•\x20ᵖʳⁱⁿᶜⁱᵖᵃˡ','nomorown','207823DPyIlV','author','?update=','8Mfzodo','esmsMT','921438KvRBgu','𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱','keepAliveRender','5493873655168','seguircanal','5493873655135','packname','now','owner','official','2381343GvChFU','log','Update\x20\x27config.js\x27','gmailbot','mods','mb_desc','confirmCode','1244052qMMpcx','version','mbmdoficial@gmail.com','url'];_0x550b=function(){return _0x22614a;};return _0x550b();}import _0x46e417 from'chalk';import{fileURLToPath}from'url';import _0x53dc03 from'fs';import _0x5ec660 from'cheerio';function _0x5b6a(_0x14e07f,_0x30c750){const _0x550b5c=_0x550b();return _0x5b6a=function(_0x5b6a49,_0x47824a){_0x5b6a49=_0x5b6a49-0x86;let _0x3ee0a7=_0x550b5c[_0x5b6a49];return _0x3ee0a7;},_0x5b6a(_0x14e07f,_0x30c750);}import _0x316a0d from'node-fetch';import _0x4b19bb from'axios';import _0x153952 from'moment-timezone';global['isBaileysFail']=![],global[_0x499ea8(0xb1)]=[_0x499ea8(0xa8)],global['prems']=[_0x499ea8(0xa8)],global[_0x499ea8(0x8d)]=0x0,global[_0x499ea8(0xa5)]=0x0,global['botNumberCode']='',global[_0x499ea8(0xb3)]='',global[_0x499ea8(0xa2)]=es,global['version_language']=_0x499ea8(0x94),global[_0x499ea8(0xac)]=[[_0x499ea8(0xa8),_0x499ea8(0x90),0x1],[_0x499ea8(0xa6),_0x499ea8(0x9c),0x1]],global[_0x499ea8(0xab)]=[['5493873655135',_0x499ea8(0x8e),!![]],[_0x499ea8(0xa6)]],global[_0x499ea8(0xb0)]=_0x499ea8(0x87),global[_0x499ea8(0xa9)]=_0x499ea8(0xa4),global[_0x499ea8(0x9f)]=_0x499ea8(0x89),global[_0x499ea8(0x86)]=_0x499ea8(0x93),global[_0x499ea8(0xb2)]=_0x499ea8(0x9a),global[_0x499ea8(0xa7)]={'channelMb':'120363368769201105@newsletter','channelMb2':_0x499ea8(0x99)},fetchDataAndProcess()[_0x499ea8(0x8a)](_0x3890df=>console[_0x499ea8(0x8c)](_0x499ea8(0x98),_0x3890df)),global['wm']=_0x499ea8(0x8f),global[_0x499ea8(0x9b)]='𝑷𝒐𝒘𝒆𝒓𝒆𝒅\x20𝒃𝒚\x20𝑴𝑩𝑴𝑫.',global[_0x499ea8(0x9d)]=_0x499ea8(0xa8),global[_0x499ea8(0x96)]=0x55;let file=fileURLToPath(import.meta[_0x499ea8(0x88)]);watchFile(file,()=>{const _0x5c60af=_0x499ea8;unwatchFile(file),console[_0x5c60af(0xae)](_0x46e417[_0x5c60af(0x92)](_0x5c60af(0xaf))),import(file+_0x5c60af(0xa0)+Date[_0x5c60af(0xaa)]());});
+import { watchFile, unwatchFile } from "fs";
+import chalk from "chalk";
+import { fileURLToPath } from "url";
+import fs from "fs";
+import cheerio from "cheerio";
+import fetch from "node-fetch";
+import axios from "axios";
+import moment from "moment-timezone";
+global.isBaileysFail = false;
+global.mods = ['5493873655135'];
+global.prems = ['5493873655135'];
+global.obtenerQrWeb = 0; 
+global.keepAliveRender = 0; 
+global.botNumberCode = "";
+global.confirmCode = "";
+global.version_language = '1.0';
+global.official = [["5493873655135", 'ᴍʙᴍᴅ • ᵇᵒᵗ', 1], ["5493873655168", 'ᴍʙᴍᴅ • ᵖʳⁱⁿᶜⁱᵖᵃˡ', 1]];
+global.owner = [["5493873655135", '🗿 ᴏᴡɴᴇʀ', true], ["5493873655168"]];
+global.gmailbot = 'mbmdoficial@gmail.com';
+global.packname = `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱`;
+global.author = `𝙈𝘽𝙈𝘿`;
+global.version = "3.5.0";
+global.mb_desc = "• 🅼🄱︎🅼🄳 •︎";
+global.seguircanal = { channelMb: '120363368769201105@newsletter', channelMb2: '120363318353263389@newsletter' };
+fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error));
+global.wm = "𝘔𝘉𝘔𝘋";
+global.igfg = "𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑴𝑩𝑴𝑫.";
+global.nomorown = "5493873655135";
+global.multiplier = 85;
+let file = fileURLToPath(import.meta.url);
+watchFile(file, () => {
+unwatchFile(file);
+console.log(chalk.redBright("Update 'config.js'"));
+import(`${file}?update=${Date.now()}`);
+});
+  
