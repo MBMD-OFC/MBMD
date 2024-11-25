@@ -23,7 +23,6 @@ global.author = `𝙈𝘽𝙈𝘿`;
 global.version = "3.5.0";
 global.mb_desc = "• 🅼🄱︎🅼🄳 •︎";
 global.seguircanal = { channelMb: '120363368769201105@newsletter', channelMb2: '120363318353263389@newsletter' };
-fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error));
 global.wm = "𝘔𝘉𝘔𝘋";
 global.igfg = "𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑴𝑩𝑴𝑫.";
 global.nomorown = "5493873655135";
