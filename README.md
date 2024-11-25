@@ -1,2 +1,1 @@
-# MBMD
-Lol
+## `Privado por el momento.`
