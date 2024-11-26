@@ -7,7 +7,7 @@ import { unwatchFile, watchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'   
 import fetch from 'node-fetch'
-import './plugins/_xyz-mbmd.js'
+//import './plugins/_xyz-mbmd.js'
 const { proto } = (await import('@whiskeysockets/baileys')).default
 const isNumber = x => typeof x === 'number' && !isNaN(x)
 const delay = ms => isNumber(ms) && new Promise(resolve => setTimeout(function () {
