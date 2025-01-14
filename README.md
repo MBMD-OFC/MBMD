@@ -24,9 +24,9 @@
 
 **Antes que nada, favor de leer los terminos y condiciones para MBMD.**
 
-- aqui: [`TERMINOS Y CONDICIONES `](https://raw.githubusercontent.com/MBMD-OFC/MBMD/master/tyc.md)
-
 <br clear="left"/>
+
+- aqui: [`TERMINOS Y CONDICIONES `](https://raw.githubusercontent.com/MBMD-OFC/MBMD/master/tyc.md)
 
 ----------------
 
