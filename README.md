@@ -8,7 +8,7 @@
 
 <br clear="left"/>
 
-> [!WARNING]
+> [!WARN]
 > Cabe destacar que este proyecto aun que este en GitHub, no significa que su código sea vendido o copiado, cualquier usuario que clone este repositorio tendra que pagar una sanción (paga auto verificado por el ceo_mbmd), esto para siempre finalizar que este proyecto tiene cargos grandes al copiar su código debido a estafadores y los que asimilan ser creadores de este proyecto.
 
 ## Para mas información puedes contactarme mediante:
@@ -24,9 +24,9 @@
 
 **Antes que nada, favor de leer los terminos y condiciones para MBMD.**
 
-<br clear="left"/>
-
 - aqui: [`TERMINOS Y CONDICIONES `](https://raw.githubusercontent.com/MBMD-OFC/MBMD/master/tyc.md)
+
+<br clear="left"/>
 
 ----------------
 
