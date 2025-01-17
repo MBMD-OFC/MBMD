@@ -4,7 +4,7 @@ import axios from 'axios'
 import fs from 'fs'
 const { generateWAMessageFromContent, prepareWAMessageMedia, proto }  = (await import(global.baileys))
 import '../config.js'
-import '../src/apis.js'
+//import '../src/apis.js'
 
 let handler = m => m
 handler.all = async function (m) {
@@ -20,7 +20,7 @@ const mb_style = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m
 const audio_style = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5493873655135-5493873655168@g.us" } : {}) }, message: { "audioMessage": { "mimetype":"audio/ogg; codecs=opus", "seconds": "99569", "ptt": "true"}}}
 
 let falso_trol = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 99, status: 1, surface: 1, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
-let falso_gif = {key: {participant : '0@s.whatsapp.net'}, message: {"videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': imgs)}}}
+//let falso_gif = {key: {participant : '0@s.whatsapp.net'}, message: {"videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': imgs)}}}
 
 let link_bot = { contextInfo: { externalAdReply: {title: 'Siguenos.', body: 'Canal de WhatsApp.' , sourceUrl: allmbmd, thumbnail: await(await fetch(imgs)).buffer() }}}
 let link_bot2 = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: paypal, mediaType: 'VIDEO', description: '', title: wm, body: 'AI', thumbnailUrl: imagens, sourceUrl: allmbmd }}}
