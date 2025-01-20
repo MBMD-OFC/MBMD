@@ -1,8 +1,8 @@
 import axios from 'axios';
 var handler = async(m, { conn, text, usedPrefix, command }) => {
-if (!text) return conn.reply(m.chat, '✎ _Ingrese el comando y escriba el nombre del usuario en GitHub._\n\n- *Por ejemeplo:*\n*#usergit* Lol-human', {quoted: m});
+if (!text) return conn.sendMessage(m.chat, {text: '✎ _Ingrese el comando y escriba el nombre del usuario en GitHub._\n\n- *Por ejemeplo:*\n*#usergit* Lol-human'}, {quoted: m});
 try {
-await mensajesEditados(conn, m);
+await conn.sendMessage(m.chat, {text: `Buscando, espere un momento...`}, { quoted: m });
 let request = await githubstalk(text);
 let { username, following, followers, type, bio, company, blog, location, email, public_repo, public_gists, profile_pic } = request;
 let thumb = await (profile_pic);
@@ -54,3 +54,4 @@ async function githubstalk(user) {
         })
     })
 };
+            
