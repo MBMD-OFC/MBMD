@@ -8,9 +8,6 @@
 
 <br clear="left"/>
 
-> [!WARNING]
-> Cabe destacar que este proyecto aun que este en GitHub, no significa que su código sea vendido o copiado, cualquier usuario que clone este repositorio tendra que pagar una sanción (paga auto verificado por el ceo_mbmd), esto para siempre finalizar que este proyecto tiene cargos grandes al copiar su código debido a estafadores y los que asimilan ser creadores de este proyecto.
-
 ## Para mas información puedes contactarme mediante:
 - Telegram: [`aqui`](https://t.me/MBMD_principa)
 
@@ -24,9 +21,40 @@
 
 **Antes que nada, favor de leer los terminos y condiciones para MBMD.**
 
+- aqui: [`TERMINOS Y CONDICIONES `](https://raw.githubusercontent.com/MBMD-OFC/MBMD/master/tyc.md)
+
 <br clear="left"/>
 
-- aqui: [`TERMINOS Y CONDICIONES `](https://raw.githubusercontent.com/MBMD-OFC/MBMD/master/tyc.md)
+----------------
+
+<details>
+  <summary><b>🫂 ESTADÍSTICAS</b></summary>
+<details>
+  <summary><b>🚀 CONTENIDO</b></summary>
+
+## `Funcionalidades del proyecto.`
+
+- [x] Crear imágenes.
+- [x] Implementado con ChatGPT, Gemini, Dalle, Copilot, etc.
+- [x] Respuestas automáticas.
+- [x] Configuración de grupos.
+- [x] Configuración en privados.
+- [x] Configuración personalizada.
+- [x] Productos en venta.
+- [x] Uso de WhatsApp Business.
+- [x] Implementado con BlackBox para uso gratuito.
+- [x] Botones exclusivos.
+- [x] Asistencia 24/7.
+
+</details>  
+<details>
+  <summary><b>❌ ADVERTENCIA</b></summary>
+
+> *`⚠️ ADVERTENCIA ⚠️`*
+> Cabe destacar que este proyecto aun que este en GitHub, no significa que su código sea vendido o copiado, cualquier usuario que clone este repositorio tendra que pagar una sanción (paga auto verificado por el ceo_mbmd), esto para siempre finalizar que este proyecto tiene cargos grandes al copiar su código debido a estafadores y los que asimilan ser creadores de este proyecto.
+
+</details>
+</details>
 
 ----------------
 
